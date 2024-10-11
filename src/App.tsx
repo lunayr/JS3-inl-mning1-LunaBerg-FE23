@@ -29,4 +29,3 @@ const App: React.FC = () => {
 
 export default App;
 
-// {date.getFullYear()}-{date.getMonth() + 1}-{date.getDate()}
